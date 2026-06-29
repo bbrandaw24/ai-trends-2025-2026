@@ -1,0 +1,5 @@
+.workbuddy/
+node_modules/
+generated-images/
+*.csv
+*.py
